@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Analysis – Tableau Dashboards
+# 📊 E-Commerce Sales Analysis – Tableau 
 
 ## 🧾 Project Overview
 This project presents an **E-Commerce Sales Analysis** built using **Tableau**, focusing on customer behavior, payment preferences, product performance, and sales trends.  
@@ -16,6 +16,8 @@ The analysis is divided into **two interactive dashboards** designed to support 
 ---
 
 ## 📌 Dashboard 1: E-Commerce Sales Analysis
+
+![](https://github.com/Shital9090/Ecommerce_Orders_Analysis/blob/main/E-Commerce%20Sales%20Analysis.png)
 
 ### 🎯 Key KPIs
 - **Total Sales:** ₹40,516,117  
