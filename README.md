@@ -130,5 +130,15 @@ These filters allow users to:
 - Executive Reporting
 
 ---
+## 📬 Author
 
+**Shital Kamble**  
+Tableau Project 
+
+Location:Pune, Maharashtra, India  
+
+- 📧 Email: [shital251103@gmail.com]  
+
+
+⭐ Feel free to star/fork this repo if it helps your learning or job hunt!
 ## 📁 Repository Structure
