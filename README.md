@@ -55,6 +55,9 @@ This visual highlights the **highest revenue-generating customers**, helping ide
 
 ## 📌 Dashboard 2: Product Sales & Trend Dashboard
 
+![](https://github.com/Shital9090/Ecommerce_Orders_Analysis/blob/main/Product%20Sales%20%26%20Trend%20Dashboard.png)
+
+
 ### 📦 Total Orders
 - **1,000 Orders**
 
