@@ -1,5 +1,7 @@
 # 📊 E-Commerce Sales Analysis – Tableau 
 
+![](https://miro.medium.com/v2/resize:fit:1400/1*djCFYJWseXkReCNkVki8tQ.jpeg)
+
 ## 🧾 Project Overview
 This project presents an **E-Commerce Sales Analysis** built using **Tableau**, focusing on customer behavior, payment preferences, product performance, and sales trends.  
 The analysis is divided into **two interactive dashboards** designed to support **data-driven business decisions**.
